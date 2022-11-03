@@ -1,0 +1,5 @@
+# ninja log v5
+0	1129	1667461949209781072	two_drones_pkg/CMakeFiles/frames_publisher_node.dir/src/frames_publisher_node.cpp.o	2b3b9dd3a931f3c5
+1131	1193	1667461949273782219	devel/lib/two_drones_pkg/frames_publisher_node	ab7fe55f8bfcb59c
+0	1595	1667463283677361325	two_drones_pkg/CMakeFiles/plots_publisher_node.dir/src/plots_publisher_node.cpp.o	56e7b2e4632ad367
+1595	1665	1667463283749362600	devel/lib/two_drones_pkg/plots_publisher_node	87ea40c9bbfcea94
