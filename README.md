@@ -14,6 +14,8 @@ g++ -std=c++11 -Wall -pedantic -o random_vector main.cpp random_vector.cpp
 ## Lab2 ROS Exercises
 Run the following command in terminal to see the visualization results.
 ```bash
+cd lab2
+catkin_make
 roslaunch two_drones_pkg two_drones.launch
 ```
 
