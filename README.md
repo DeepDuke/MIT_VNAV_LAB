@@ -16,6 +16,7 @@ Run the following command in terminal to see the visualization results.
 ```bash
 cd lab2
 catkin_make
+source devel/setup.bash
 roslaunch two_drones_pkg two_drones.launch
 ```
 
