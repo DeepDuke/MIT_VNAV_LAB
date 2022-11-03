@@ -1,0 +1,8 @@
+# a. To count the number of lines in the file
+Run "wc -l dante.txt" , we can get "85093 dante.txt"
+
+# b. To count the words in the file
+Run "wc -w dante.txt ", we can get the result "371310 dante.txt"
+
+# c. To count the non-blank lines in the file
+Run "grep -vc ^$ dante.txt", we can get the result "84751" 
